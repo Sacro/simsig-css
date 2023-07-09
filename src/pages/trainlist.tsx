@@ -109,11 +109,11 @@ const TrainList = () => {
             <th>Status</th>
             <th>Location</th>
             <th>Length</th>
-            <th>PassSig</th>
-            <th>NonStopNext</th>
+            <th>Pass Sig</th>
+            <th>Non-Stop Next</th>
             <th>Power</th>
             <th>Description</th>
-            <th>DrivingRules</th>
+            <th>Driving Rules</th>
             <th>Workstation</th>
           </tr>
         </thead>
