@@ -1,0 +1,40 @@
+h1{color:blue;text-align:left;font-size:12pt;}
+body{margin:2px; font-family:Arial,Helvetica,sans-serif;border: 1px solid black;border:none}
+table{border-collapse:collapse;font-size:9pt;width:100%}
+table,th,td{border: 1px solid black;text-align:left;padding:3px;}
+th{color:white;background-color:#808080;font-weight:bold;}
+tr.alternate1{background-color:#EAF2D3;}
+tr.alternate2{background-color:white;}
+tr.locpass{}
+tr.locstop{}
+td.locpass{}
+td.locstop{font-weight:bold;}
+td.arr{text-align:center;font-family:Courier New;}
+td.dep{text-align:center;font-family:Courier New;}
+td.path{}
+td.plat{}
+td.line{}
+td.engallow{}
+td.pathallow{}
+td.misc{}
+td.acts{text-align: center; background-color: #D3D3D3}
+th.loc{}
+th.arr{}
+th.dep{}
+th.path{}
+th.plat{}
+th.line{}
+th.engallow{}
+th.pathallow{}
+th.misc{}
+th.id{} td.id{background-color: #D3D3D3}
+th.desc{} td.desc{background-color: #D3D3D3}
+th.notes{} td.notes{background-color: #D3D3D3}
+th.char{} td.char{background-color: #D3D3D3}
+th.status{} td.status{background-color: #D3D3D3}
+th.delay{} td.delay{background-color: #D3D3D3}
+th.ars{} td.ars{background-color: #D3D3D3}
+th.mru{} td.mru{background-color: #D3D3D3}
+td.delayearly{background-color: #D3FFD3}
+td.delaylate{background-color: #FFD3D3}
+td.delayontime{background-color: #D3D3D3}
